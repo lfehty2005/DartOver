@@ -1,0 +1,92 @@
+12:09:11 (slbsls) (@slbsls-SLOG@) Time: Thu May 09 2019 12:09:11 Central Asia Standard Time 
+23:15:31 (slbsls) IN: "модуль33" user1@domen  
+23:15:31 (slbsls) IN: "модуль1" user1@domen  
+23:15:31 (slbsls) IN: "модуль15" user1@domen  (32 licenses) 
+23:48:38 (slbsls) IN: "модуль33" user4@domen  
+23:48:38 (slbsls) IN: "модуль1" user4@domen  
+23:48:38 (slbsls) IN: "модуль15" user4@domen  (8 licenses)  
+ 9:02:07 (slbsls) OUT: "модуль1" user46@domen  
+ 9:02:07 (slbsls) OUT: "модуль33" user46@domen   
+ 9:05:51 (slbsls) OUT: "модуль1" user46@domen  
+ 9:06:23 (slbsls) IN: "модуль1" user46@domen   
+ 9:06:47 (slbsls) OUT: "модуль21" user46@domen  
+ 9:11:40 (slbsls) IN: "модуль33" user46@domen  
+ 9:11:40 (slbsls) IN: "модуль1" user46@domen   
+ 9:26:30 (slbsls) OUT: "модуль21" user46@domen 
+ 9:30:34 (slbsls) OUT: "модуль1" user46@domen  
+ 9:30:50 (slbsls) IN: "модуль1" user46@domen   
+ 9:33:51 (slbsls) OUT: "модуль1" user46@domen  
+ 9:34:09 (slbsls) IN: "модуль1" user46@domen  
+ 9:36:55 (slbsls) IN: "модуль21" user46@domen  
+ 9:38:10 (slbsls) IN: "модуль21" user46@domen  
+----------------------------------много доп.данных идет между строк c другой структурой (без явных разделителей), которые откидывает парсер по отсутствию необходимости сейчас ( нет отчетов в BI ) 
+11:22:05 (slbsls) OUT: "модуль1" user1@domen  
+11:22:06 (slbsls) OUT: "модуль33" user1@domen  
+11:22:06 (slbsls) OUT: "модуль15" user1@domen  (32 licenses)   
+13:44:31 (slbsls) OUT: "модуль1" user46@domen  
+13:44:31 (slbsls) IN: "модуль1" user46@domen   
+13:45:04 (slbsls) OUT: "модуль1" user46@domen  
+13:45:04 (slbsls) OUT: "модуль33" user46@domen  
+13:45:05 (slbsls) IN: "модуль33" user46@domen  
+13:45:05 (slbsls) IN: "модуль1" user46@domen   
+13:45:55 (slbsls) OUT: "модуль1" user46@domen  
+13:45:55 (slbsls) OUT: "модуль33" user46@domen  
+13:45:58 (slbsls) IN: "модуль33" user46@domen  
+13:45:58 (slbsls) IN: "модуль1" user46@domen   
+13:48:19 (slbsls) OUT: "модуль1" user46@domen  
+13:48:20 (slbsls) OUT: "модуль33" user46@domen  
+13:48:22 (slbsls) IN: "модуль33" user46@domen  
+13:48:22 (slbsls) IN: "модуль1" user46@domen   
+16:09:12 (slbsls) (@slbsls-SLOG@) Time: Fri May 10 2019 16:09:12 Central Asia Standard Time  
+22:04:10 (slbsls) OUT: "модуль5" user77@domen  
+22:04:11 (slbsls) OUT: "модуль53" user77@domen  
+22:04:11 (slbsls) OUT: "модуль10" user77@domen  
+22:04:11 (slbsls) OUT: "модуль9" user77@domen  
+22:04:11 (slbsls) OUT: "модуль91" user77@domen  
+22:04:58 (slbsls) OUT: "модуль5" user8@domen  
+22:04:59 (slbsls) OUT: "модуль4Int" user8@domen  
+22:04:59 (slbsls) OUT: "модуль12в" user8@domen  
+22:04:59 (slbsls) OUT: "подмод1" user8@domen  
+22:04:59 (slbsls) OUT: "подмод12" user8@domen  
+22:04:59 (slbsls) OUT: "модуль4Extract" user8@domen  
+22:04:59 (slbsls) OUT: "подмод3" user8@domen  
+22:04:59 (slbsls) OUT: "модуль121" user8@domen  
+22:04:59 (slbsls) OUT: "подмод4" user8@domen  
+22:05:00 (slbsls) OUT: "подмод7" user8@domen  
+22:05:00 (slbsls) OUT: "модуль9" user8@domen  
+22:05:00 (slbsls) OUT: "подмод9" user8@domen  
+22:05:00 (slbsls) OUT: "подмод94" user85@domen  
+22:05:00 (slbsls) OUT: "модуль91" user85@domen  
+22:05:00 (slbsls) OUT: "подмод10" user85@domen  
+22:05:01 (slbsls) OUT: "подмод11" user85@domen  
+22:05:01 (slbsls) OUT: "подмод115" user85@domen  
+22:05:01 (slbsls) OUT: "модуль43" user85@domen  
+22:05:01 (slbsls) OUT: "подмод166" user85@domen  
+22:05:01 (slbsls) OUT: "подмод33" user85@domen  
+22:08:32 (slbsls) IN: "модуль91" user85@domen  
+22:08:32 (slbsls) IN: "подмод9" user85@domen  
+22:08:32 (slbsls) IN: "подмод7" user85@domen  
+22:08:32 (slbsls) IN: "подмод11" user85@domen  
+22:08:32 (slbsls) IN: "модуль5" user85@domen  
+22:08:32 (slbsls) IN: "подмод33" user8@domen  
+22:08:32 (slbsls) IN: "подмод12" user8@domen  
+22:08:32 (slbsls) IN: "модуль9" user8@domen  
+22:08:32 (slbsls) IN: "подмод3" user8@domen  
+22:08:32 (slbsls) IN: "" user8@domen  
+22:08:32 (slbsls) IN: "подмод4" user8@domen  
+22:08:32 (slbsls) IN: "модуль12в" user8@domen  
+22:08:32 (slbsls) IN: "модуль4Extract" user8@domen  
+22:08:32 (slbsls) IN: "модуль121" user8@domen  
+22:08:32 (slbsls) IN: "подмод94" user8@domen  
+22:08:32 (slbsls) IN: "подмод1" user8@domen  
+22:08:32 (slbsls) IN: "подмод10" user8@domen  
+22:08:32 (slbsls) IN: "подмод166" user8@domen  
+22:08:32 (slbsls) IN: "модуль43" user8@domen  
+22:08:32 (slbsls) IN: "подмод115" user8@domen  
+22:08:32 (slbsls) IN: "модуль91" user77@domen  
+22:08:32 (slbsls) IN: "модуль10" user77@domen  
+22:08:32 (slbsls) IN: "модуль5" user77@domen  
+22:08:32 (slbsls) IN: "модуль9" user77@domen  
+22:08:32 (slbsls) IN: "модуль53" user77@domen  
+----------------------------------много доп.данных идет между строк c другой структурой (без явных разделителей), которые откидывает парсер по отсутствию необходимости сейчас ( нет отчетов в BI ) 
+строк в файле около 400 тыс
